@@ -1,0 +1,125 @@
+.div-login-button {
+  padding: 15px;
+}
+.link-agenda {
+  width: 250px;
+}
+.icon-agenda {
+  padding: 6px;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+.border-grey {
+  border-color: #ddd !important;
+}
+.btn-center {
+  left: 48%;
+}
+.btn-list-left {
+  left: -24px;
+  top: 65%;
+}
+.btn-list-right {
+  right: -24px;
+  top: 65%;
+}
+.list-jadwal:hover {
+  background-color: rgba(235, 242, 247, 0.8);
+}
+.btn-close {
+  color: #f44336 !important;
+  cursor: pointer;
+  margin: 5px;
+}
+.wrap-text-agenda {
+  width: 100% !important;
+}
+.wrap-text {
+  width: 90%;
+  word-wrap: break-word;
+}
+
+.btn_tambah {
+  background-color: transparent;
+  border: 0px;
+  font-weight: bold;
+  color: #0D3349;
+
+}
+
+.dashboard-all .realisasi-card.card {
+  border-radius: 0 0 4px 4px;
+}
+
+.realisasi-card {
+  background-color: #3a3c15;
+  padding: 10px;
+}
+
+
+
+.dashboard-all .panel-heading {
+  color: #adb5bd;
+}
+.dipa-accordion-btn {
+  width: 100%;
+  background: #20252a;
+  text-align: left;
+  padding: 13px;
+  border-radius: 3px 3px 0px 0px;
+}
+
+/* Dashboard collapse */
+.dashboard-all .dipa-accordion-btn,
+.dashboard-all .dipa-accordion-btn.btn-link:hover,
+.dashboard-all .dipa-accordion-btn.btn-link:focus,
+.dashboard-all .dipa-accordion-btn.btn-link:active {
+  background-color: #2d353c;
+}
+
+.dashboard-all .panel-collapse > .panel-body {
+  padding: 0;
+  border-top: 0 !important;
+}
+
+.progress-angka {
+  font-size: 153%;
+  margin-bottom: 6px;
+}
+
+.dashboard-progress .progress {
+  height: 10px;
+}
+
+
+.dashboard-progress .progress-bar-success {
+  background-color: #2cac4e;
+}
+.dashboard-progress .progress-bar-danger {
+  background-color: #ea4272;
+}
+.dashboard-progress .progress-bar-bp {
+  background-color: #ffd11c;
+}
+.dashboard-progress .progress-bar-bb {
+  background-color: #8753de;
+}
+.dashboard-progress .progress-bar-bm {
+  background-color: #9f7159;
+}
+
+.progress-bar-striped {
+  background-image: linear-gradient(
+          45deg,
+          rgba(255, 255, 255, 0.15) 25%,
+          transparent 25%,
+          transparent 50%,
+          rgba(255, 255, 255, 0.15) 50%,
+          rgba(255, 255, 255, 0.15) 75%,
+          transparent 75%,
+          transparent
+  );
+  background-size: 1rem 1rem;
+}
+
+
